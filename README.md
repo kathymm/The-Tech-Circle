@@ -1,3 +1,40 @@
+Skip to content
+Navigation Menu
+photon-e
+/
+python-tutorial
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Owner avatar
+python-tutorial
+Public
+photon-e/python-tutorial
+Go to file
+t
+Add file
+Folders and files
+Name		
+Latest commit
+photon-e
+photon-e
+switched the outline of day 2 with day 3
+1189c89
+ · 
+5 minutes ago
+History
+README.md
+switched the outline of day 2 with day 3
+5 minutes ago
+Repository files navigation
+README
 Outline
 Day 1: Introduction to Python
 
@@ -10,22 +47,6 @@ Basic syntax, variables, and data types.
 Basic input/output operations.
 
 Basic arithmetic operations.
-
-Day 3: Functions and Modules
-
-Lessons:
-
-Defining and calling functions.
-
-Function arguments and return values.
-
-Introduction to modules and importing them.
-
-Using built-in modules (like math and random).
-
-Project: Basic Calculator with Functions
-
-Refactor the simple calculator project to use functions for each operation.
 
 Day 2: Control Structures
 
@@ -44,6 +65,22 @@ Create a number guessing game where the user has to guess a randomly generated n
 Project: Simple Calculator
 
 Create a simple calculator that can perform basic arithmetic operations (addition, subtraction, multiplication, and division) based on user input.
+
+Day 3: Functions and Modules
+
+Lessons:
+
+Defining and calling functions.
+
+Function arguments and return values.
+
+Introduction to modules and importing them.
+
+Using built-in modules (like math and random).
+
+Project: Basic Calculator with Functions
+
+Refactor the simple calculator project to use functions for each operation.
 
 Day 4: Data Structures and File Handling
 
@@ -2308,3 +2345,30 @@ By now, you should have a solid understanding of Python and be ready to tackle m
 
 Feel free to ask any questions you might have or discuss any issues you faced during the workshop. Happy coding!
 
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
